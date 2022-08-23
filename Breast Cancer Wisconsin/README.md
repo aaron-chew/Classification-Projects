@@ -10,7 +10,7 @@ Breast cancer is the most common malignancy among women, accounting for nearly 1
 The Breast Cancer Wisconsin dataset is a multivariate classification problem which contains 570 rows of data with 32 features that are all numeric. Our dependent variable (the attribute we are trying to predict) is "diagnosis", which determines whether a tumor is cancerous or not. 
 
 ## Project Layout
-This project uses 6 notebooks that are divided by each stage/topic of our analysis. To begin, start at notebook "01_basic_exploration" then work your way up sequentially until you reach the 6th and final notebook that deploys the model. The functions and plots files can be found under the "functions" folder which contains all the functions used inside our notebooks.
+This project uses 6 notebooks that are divided by each stage/topic of our analysis. To begin, start at notebook "01_basic_exploration" then work your way up sequentially until you reach the 6th and final notebook that deploys the model. The functions and plots .py files can be found under the "functions" folder.
 
 ## Features
 a) radius (mean of distances from center to points on the perimeter)<br>
