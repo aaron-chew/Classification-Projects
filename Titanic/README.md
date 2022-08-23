@@ -11,7 +11,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 The data is orginally split into two files, train.csv and test.csv which can be located inside the "raw_data" folder. We only import the "test.csv" dataset in our final notebook "6_final_pipeline" to ensure our model's performance is tested on data it has never seen before. The Titanic dataset is a multivariate classification problem which contains 892 rows (train) and 419 rows (test). There are 12 attributes that include both categorical and numerical data, with "Survived" being our dependant variable. 
 
 ## Project Layout
-This project uses 6 notebooks that are divided by each stage/topic of our analysis. To begin, start at notebook "01_basic_exploration" then work your way up sequentially until you reach the 6th and final notebook that deploys the model. The functions and plots files can be found under the "functions" folder which contains all the functions used inside our notebooks. 
+This project uses 6 notebooks that are divided by each stage/topic of our analysis. To begin, start at notebook "01_basic_exploration" then work your way up sequentially until you reach the 6th and final notebook that deploys the model. The functions and plots .py files can be found under the "functions" folder.
 
 ## Features
 * Survived: Outcome of survival (0 = No; 1 = Yes)
