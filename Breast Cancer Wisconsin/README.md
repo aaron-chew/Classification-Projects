@@ -1,5 +1,5 @@
 
-# Project Title
+# Breast Cancer Wisconsin
 
 The purpose of this project is to train an algorithm to accurately and effectively predict whether a tumor is either benign (non-cancerous) or malignant (cancerous).
 
