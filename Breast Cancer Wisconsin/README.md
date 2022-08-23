@@ -13,10 +13,10 @@ The raw data came in a single file, so I had to manually shuffle the data and co
 This project uses 6 notebooks that are divided by each stage/topic of our analysis. The functions and plots files can be found under the "functions" folder which contains all the functions used inside our notebooks.
 
 ## Features
-a) radius (mean of distances from center to points on the perimeter)
-b) texture (standard deviation of gray-scale values)
-c) perimeter
-d) area
+a) radius (mean of distances from center to points on the perimeter)<br>
+b) texture (standard deviation of gray-scale values)<br>
+c) perimeter<br>
+d) area<br>
 e) smoothness (local variation in radius lengths)
 f) compactness (perimeter^2 / area - 1.0)
 g) concavity (severity of concave portions of the contour)
